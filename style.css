@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-image: url("purple.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  position: middle;
+}
+div{
+  position: center;
+}
+

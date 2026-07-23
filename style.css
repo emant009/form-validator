@@ -13,4 +13,6 @@ div{
   width: 300px;
   height: 300px;
 }
-
+.btn{
+  border-radius: 10px~;
+}

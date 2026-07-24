@@ -14,5 +14,6 @@ div{
   height: 300px;
 }
 .btn{
-  border-radius: 10px~;
+  border-radius: 10px;
+  align-items: center;
 }

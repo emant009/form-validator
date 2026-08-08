@@ -24,4 +24,6 @@ div{
   background-color: aquamarine;
   color: black;
   background-color: beige;
+  align-items: center;
+  align-content: center;
 }

@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   background-image: url("purple.jpg");
@@ -8,22 +8,14 @@
   background-attachment: fixed;
   position: middle;
 }
-div{
-  position: center;
-  width: 300px;
-  height: 300px;
+form {
+  width: 500px;
+  margin-top: 260px;
+  margin-left: 440px;
+  display: inline-block;
+  
 }
-.btn{
-  border-radius: 10px;
-  align-items: center;
-  border-width: 40px;
-  width: 12px;
-  height: 10px;
-  padding: 10px;
-  margin: 10px;
-  background-color: aquamarine;
-  color: black;
-  background-color: beige;
-  align-items: center;
-  align-content: center;
+div{
+  border-radius: 5px;
+
 }

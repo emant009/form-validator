@@ -39,4 +39,5 @@ form {
 .btn{
   text-align: center;
   border-radius: 4px;
+  border-style: hidden;
 }

@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  background-image: url("purple.jpg");
+  background-image: url("dawn.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -9,34 +9,35 @@
   position: middle;
 }
 form {
-  width: 500px;
+  width: 400px;
   margin-top: 260px;
-  margin-left: 440px;
-  border: 1px solid gainsboro;
-  border-radius: 4px;
-  padding-right: 0px;
-  padding-left: 40px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  margin-left: 450px;
+  font-size: 20px;
+  border: 1px solid;
+  border-radius: 5px;
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 50px;
   box-sizing: border-box;
   box-shadow: 3px;
+  background-color: transparent;
 }
 .div1{
-  border-radius: 5px;
-  background-color: transparent;
+  border-radius: 1px;
   text-align: center;
-  border-color:black;
-  padding-left: 15px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-bottom: 10px;
 }
 .div2{
-  border: 7px;
+  border: 1px;
   text-align: center;
-  border-color: black;
-
+  padding-bottom: 10px;
 }
 .btn{
-  text-align: center;
-  border-radius: 4px;
-  border: 7px;
-
+  font-size: 20px;
+  border-radius: 1px;
+  padding-left: 7px;
+  padding-right: 7px;
 }

@@ -9,35 +9,40 @@
   position: middle;
 }
 form {
-  width: 400px;
-  margin-top: 260px;
+  width: 370px;
+  height: 150px;
+  margin-top: 210px;
   margin-left: 450px;
   font-size: 20px;
-  border: 1px solid;
+  border: 1px solid black;
   border-radius: 5px;
   padding-left: 30px;
   padding-top: 30px;
   padding-bottom: 50px;
-  box-sizing: border-box;
-  box-shadow: 3px;
-  background-color: transparent;
+  box-shadow: 2px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+input{
+  border-radius: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 .div1{
-  border-radius: 1px;
   text-align: center;
-  padding-top: 3px;
-  padding-bottom: 3px;
   padding-left: 10px;
-  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 .div2{
-  border: 1px;
   text-align: center;
-  padding-bottom: 10px;
+  padding-right: 7px;
+  margin-bottom: 10px;
 }
 .btn{
   font-size: 20px;
-  border-radius: 1px;
-  padding-left: 7px;
-  padding-right: 7px;
+  margin-left: 110px;
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
 }

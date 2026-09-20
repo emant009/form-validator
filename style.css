@@ -14,32 +14,32 @@ form {
   margin-top: 210px;
   margin-left: 450px;
   font-size: 20px;
-  border: 1px solid black;
+  border: 1px solid rgb(136, 136, 136);
   border-radius: 5px;
   padding-left: 30px;
   padding-top: 30px;
   padding-bottom: 50px;
   box-shadow: 2px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 241, 241, 0.822);
 }
-input{
+input {
   border-radius: 15px;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 5px;
   padding-right: 5px;
 }
-.div1{
+.div1 {
   text-align: center;
   padding-left: 10px;
   margin-bottom: 10px;
 }
-.div2{
+.div2 {
   text-align: center;
   padding-right: 7px;
   margin-bottom: 10px;
 }
-.btn{
+.btn {
   font-size: 20px;
   margin-left: 110px;
   border-radius: 10px;

@@ -4,7 +4,7 @@ const generateForm = document.getElementById("form-container");
 generateButton.addEventListener("click", generateForm);
 
 function usernameFunc() {
-  const char = [];
+  const char = [a,b,c,d,];
   for (let i=0; i<10; i++){
     
   }
